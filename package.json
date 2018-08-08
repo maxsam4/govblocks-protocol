@@ -8,6 +8,7 @@
     "solc": "^0.4.24",
     "truffle": "^4.1.13",
     "truffle-fast-compile": "0.0.3",
+    "truffle-flattener": "^1.2.6",
     "truffle-hdwallet-provider": "^0.0.5"
   },
   "devDependencies": {
